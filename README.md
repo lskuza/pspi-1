@@ -7,15 +7,15 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
       - [Tytuł pokazu slajdów](link)
       - [Moje notatki z...](link)
 
-1. [Erdanowski, Tomasz](http://terdanowski.github.io/)
+1. [Erdanowski, Tomasz] (http://terdanowski.github.io/)
 1. Gisko, Alicja
 1. Jacewicz, Małgorzata
 1. Łuksza, Natalia
-1. [Nowak, Łukasz](http://nowakl.github.io/)
+1. Nowak, Łukasz (http://nowakl.github.io/)
 1. Nowicka, Beata
 1. Ostapczuk, Andrzej
 1. [Selke, Marcin](http://mselke.github.io/)
-1. Skuza, Łukasz
+1. [Skuza, Łukasz](https://github.com/lskuza/)
 1. Sudomir-Gordon, Milena
 1. Mokrzycki, Rafał
 2. [Snarski, Lech](http://lsnarski.github.io/)
